@@ -1,2 +1,1 @@
-Implement Reed-Solomon encoding/decoding using the algorithms dis-
-cussed in class. For simplicity, consider s = 1 (a single error may be corrected). Use as few modular inversions operations as possible.
+Implement Reed-Solomon encoding/decoding using the algorithms discussed in class. For simplicity, consider s = 1 (a single error may be corrected). Use as few modular inversions operations as possible.
